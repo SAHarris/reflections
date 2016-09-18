@@ -1,0 +1,69 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I used FC. But the command automatically found the location of the disparity
+	which saved me the time of scrolling to the function that I thought would 
+	contain the difference.
+	
+	Wow. I really thought I would have to check code for differences manually. 
+	I guess it's the sort of basic task that I'd have associated with skill 
+	and technique. Like "Going Hard in Paint."
+
+It makes a lot of sense to FC two files. There are clear advantages:
+
+The FC command won't miss minor typos- It's not expecting to see the where 
+teh is written...
+
+The FC command will check the whole file rather than the spcific function or 
+object I'm currently working on.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    This would allow me to easily undo changes. Similarly, this would give
+	me confidence when facing the prospect of making large changes to a file.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros- Making commits for logical sized changes ensures the history will
+	make sense when I read back through it.
+	
+	Cons- If I make it a habit of not committing at logical intervals, my 
+	history steps will cover multiple changes and will require more work to correct.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+   This calls to the intended use of the system. Google Docs or Wikipedia, for 
+   instance,are concerned with standalone files- Articles, essays, and other 
+   items that are intended to be read independently of other files. A system 
+   like Git, on the other hand, is meant to track the changes to a body of work
+   (a repository,) which can contain multiple files that reference and affect 
+   each other. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+   My mind is blown. I can compare two commit hashes and get back a detailed 
+   report of the specific changes made. Starting with the remarks made on the commit, 
+   I can use diff to compare the file versions and get insight into all of the 
+   changes made.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    This makes me much more confident! If I adopt logical commit habits, I can 
+	freely try out new ideas without the fear that an untrackable typo will cost 
+	me hours of work.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    For now, I would like to use Git to make track changes to my Python, HTML 
+	and CSS files when working on web projects.
+	
+	
+
+
+
+
