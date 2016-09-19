@@ -27,6 +27,9 @@ Seeing changes on a diagram reinforced how branches connect with previous versio
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result of a merge combines two versions back into one branch. This can be 
+a very complex task and the diagrams helped to visualize the process.
+
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
