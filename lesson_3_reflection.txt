@@ -17,3 +17,8 @@ I would use a remote in instances of sharing my work, collaborating with others.
  Similarly, forks are copies of repositories, but they are created by GitHub and are linked to the original repository.
  
  Branches are a seperate versions of a repository and exist locally and/or on GitHub.
+ 
+ What is the benefit of having a copy of the last known state of the remote stored locally?
+ 
+ This gives you the last known changes made remotely and allows you to see how they fir wioth your own subsequent commits.
+ 
