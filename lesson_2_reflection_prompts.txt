@@ -23,7 +23,8 @@ alternate layouts, etc.
 
 How do the diagrams help you visualize the branch structure?
 
-Seeing changes on a diagram reinforced how branches connect with previous versions of the repository.
+Seeing changes on a diagram reinforced how branches connect with previous versions
+ of the repository.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
@@ -33,3 +34,9 @@ a very complex task and the diagrams helped to visualize the process.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+Manual conflict resolution is a failsafe- it leaves room for a conversation between
+ authors to resolve differences in code. In collaborative efforts, this should
+ always be an option. 
+As for automatic merging, I think my coding habits should be well enough defined
+ that branches worked on only by me automatically merge. Conflict errors in my own
+ branches, I think, represent messy workflow.
