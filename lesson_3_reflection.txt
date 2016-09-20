@@ -22,3 +22,6 @@ I would use a remote in instances of sharing my work, collaborating with others.
  
  This gives you the last known changes made remotely and allows you to see how they fir wioth your own subsequent commits.
  
+ How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+ 
+ Without GitHub, collaborations would be tedious. I would provide code to a collaborator for review and there would be longer lead time between updates. I would also likely onloy work on one piece of the code while collaborators worked on other pieces. Github makes it possible to share much smaller tasks as the updates are more frequent and conflicts are resolved in a straight-forward manner.
