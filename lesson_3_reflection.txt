@@ -25,3 +25,7 @@ I would use a remote in instances of sharing my work, collaborating with others.
  How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
  
  Without GitHub, collaborations would be tedious. I would provide code to a collaborator for review and there would be longer lead time between updates. I would also likely onloy work on one piece of the code while collaborators worked on other pieces. Github makes it possible to share much smaller tasks as the updates are more frequent and conflicts are resolved in a straight-forward manner.
+ 
+ When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+ 
+ If I was working on an experimental branch, I would definately not make changes to the master. Same if I was working on a debug branch and collaborators. If I am collaborating with others, then I want to make changes to a temp branch until they can review the code and discuss conflicts.
